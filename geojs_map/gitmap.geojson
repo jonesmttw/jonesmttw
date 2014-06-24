@@ -1,4 +1,4 @@
 {"name":"gitmap","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[39.054623,-94.34123]},"properties":null}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.34123,39.054623]},"properties":null}
 ]}
