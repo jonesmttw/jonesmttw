@@ -1,31 +1,31 @@
 {"name":"gitmap","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.646465,42.0277945]},"properties":{"name":"Ames"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7484038,30.2681312]},"properties":{"name":"Austin"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.059087,42.3599142]},"properties":{"name":"Boston"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6177188,41.8760239]},"properties":{"name":"Chicago"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6105369,28.3562264]},"properties":{"name":"Cocoa Beach"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8218218,38.8319918]},"properties":{"name":"Colorado Springs"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.3282047,38.9398605]},"properties":{"name":"Columbia"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7971069,32.7806921]},"properties":{"name":"Dallas"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.2597024,53.3507223]},"properties":{"name":"Dublin"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5216783,40.3766369]},"properties":{"name":"Estes Park"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0772761,40.5801581]},"properties":{"name":"Fort Collins"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-9.0558992,53.2699077]},"properties":{"name":"Galway"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5772587,39.0988014]},"properties":{"name":"Kansas City"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9210335,35.9588351]},"properties":{"name":"Knoxville"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.630014,52.6682406]},"properties":{"name":"Limerick"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6771791,40.8101972]},"properties":{"name":"Lincoln"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2867364,38.2999296]},"properties":{"name":"Napa Valley"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9977633,40.7162024]},"properties":{"name":"New York"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.443697,35.2056442]},"properties":{"name":"Norman"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1461854,39.9471818]},"properties":{"name":"Philidelphia"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4853035,29.4229819]},"properties":{"name":"San Antonio"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1567039,32.7130833]},"properties":{"name":"San Diego"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.424006,37.7743365]},"properties":{"name":"San Franciso"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.3370713,47.609412]},"properties":{"name":"Seattle"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1558293,49.6993766]},"properties":{"name":"Squamish"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0685352,36.1250207]},"properties":{"name":"Stillwater"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.9338798,33.4238107]},"properties":{"name":"Tempe"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1275336,49.2849789]},"properties":{"name":"Vancouver"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5772587,39.0988014]},"properties":{"title":"Kansas City","name":"Kansas City","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.3282047,38.9398605]},"properties":{"title":"Columbia","name":"Columbia","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9977633,40.7162024]},"properties":{"title":"New York","name":"New York","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6177188,41.8760239]},"properties":{"title":"Chicago","name":"Chicago","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7484038,30.2681312]},"properties":{"title":"Austin","name":"Austin","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7971069,32.7806921]},"properties":{"title":"Dallas","name":"Dallas","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4853035,29.4229819]},"properties":{"title":"San Antonio","name":"San Antonio","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9210335,35.9588351]},"properties":{"title":"Knoxville","name":"Knoxville","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6771791,40.8101972]},"properties":{"title":"Lincoln","name":"Lincoln","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6105369,28.3562264]},"properties":{"title":"Cocoa Beach","name":"Cocoa Beach","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.9338798,33.4238107]},"properties":{"title":"Tempe","name":"Tempe","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1567039,32.7130833]},"properties":{"title":"San Diego","name":"San Diego","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.424006,37.7743365]},"properties":{"title":"San Franciso","name":"San Franciso","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2867364,38.2999296]},"properties":{"title":"Napa Valley","name":"Napa Valley","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.3370713,47.609412]},"properties":{"title":"Seattle","name":"Seattle","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1275336,49.2849789]},"properties":{"title":"Vancouver","name":"Vancouver","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1558293,49.6993766]},"properties":{"title":"Squamish","name":"Squamish","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0772761,40.5801581]},"properties":{"title":"Fort Collins","name":"Fort Collins","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5216783,40.3766369]},"properties":{"title":"Estes Park","name":"Estes Park","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8218218,38.8319918]},"properties":{"title":"Colorado Springs","name":"Colorado Springs","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0685352,36.1250207]},"properties":{"title":"Stillwater","name":"Stillwater","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.443697,35.2056442]},"properties":{"title":"Norman","name":"Norman","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.646465,42.0277945]},"properties":{"title":"Ames","name":"Ames","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1461854,39.9471818]},"properties":{"title":"Philidelphia","name":"Philidelphia","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.059087,42.3599142]},"properties":{"title":"Boston","name":"Boston","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.2597024,53.3507223]},"properties":{"title":"Dublin","name":"Dublin","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.630014,52.6682406]},"properties":{"title":"Limerick","name":"Limerick","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-9.0558992,53.2699077]},"properties":{"title":"Galway","name":"Galway","marker-color":"#00f","marker-symbol":"city"}}
 ]}
