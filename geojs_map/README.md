@@ -6,9 +6,10 @@ After initially generating some geojson, I wanted to take it one step further an
 ```javascript
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5772587,39.0988014]},"properties":{"name":"Kansas City","marker-color":"#00f","marker-symbol":"city"}}
 ```
-[https://github.com/blog/1528-there-s-a-map-for-that](There's a map for that)
-[https://help.github.com/articles/mapping-geojson-files-on-github](GitHub Map Styling)
+[There's a map for that](https://github.com/blog/1528-there-s-a-map-for-that)
 
-With that you get the end result seen [https://github.com/jonesmttw/dev_land/blob/master/geojs_map/gitmap.geojson](here - gitmap)
+[GitHub Map Styling](https://help.github.com/articles/mapping-geojson-files-on-github)
+
+With that you get the end result seen [here - gitmap](https://github.com/jonesmttw/dev_land/blob/master/geojs_map/gitmap.geojson)
 
 
