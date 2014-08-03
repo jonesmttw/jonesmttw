@@ -30,4 +30,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-9.0558992,53.2699077]},"properties":{"name":"Galway","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0812485,41.2918589]},"properties":{"name":"Omaha","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0537574,43.0043459]},"properties":{"name":"Orange City","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.420604,33.7677129]},"properties":{"name":"Atlanta","marker-color":"#00f","marker-symbol":"city"}}
 ]}
