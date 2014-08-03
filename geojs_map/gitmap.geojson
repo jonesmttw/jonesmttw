@@ -28,4 +28,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.2597024,53.3507223]},"properties":{"name":"Dublin","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.630014,52.6682406]},"properties":{"name":"Limerick","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-9.0558992,53.2699077]},"properties":{"name":"Galway","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0812485,41.2918589]},"properties":{"name":"Omaha","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0537574,43.0043459]},"properties":{"name":"Orange City","marker-color":"#00f","marker-symbol":"city"}}
 ]}
