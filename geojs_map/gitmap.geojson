@@ -31,4 +31,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0812485,41.2918589]},"properties":{"name":"Omaha","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0537574,43.0043459]},"properties":{"name":"Orange City","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.420604,33.7677129]},"properties":{"name":"Atlanta","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.1962924,38.6222298]},"properties":{"name":"St. Louis","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.2868832,37.1954469]},"properties":{"name":"Springfield","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.371158,29.7584202]},"properties":{"name":"Houston","marker-color":"#00f","marker-symbol":"city"}}
 ]}
