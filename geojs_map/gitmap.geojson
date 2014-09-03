@@ -35,4 +35,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.2868832,37.1954469]},"properties":{"name":"Springfield","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.371158,29.7584202]},"properties":{"name":"Houston","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.8137102,32.4613255]},"properties":{"name":"Shreveport","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8884435,33.5911434]},"properties":{"name":"Lubbock","marker-color":"#00f","marker-symbol":"city"}}
 ]}
