@@ -1,0 +1,14 @@
+{
+  "name": "awsphotos",
+  "version": "0.0.0",
+  "description": "awsphotos",
+  "main": "aws.js",
+  "author": {
+    "name": "mattjones",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "aws-sdk": "~2.0.19"
+  }
+}
