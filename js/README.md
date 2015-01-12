@@ -1,4 +1,14 @@
-######Storing js functions for later use
+######JS functions
+
+[Print WebGL Canvas](printWebglCanvas.js)
+
+** NOTE - preserveDrawingBuffer must be turned on for this to work **
+
+```javascript
+var canvas = document.getElementById('mycanvas');
+printWebglCanvas(canvas, canvas.height, canvas.width);
+```
+
 
 [JS String Template Function tmpl](tmpl.js)
 

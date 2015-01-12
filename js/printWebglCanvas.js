@@ -6,11 +6,15 @@ function getWebGLData(glcanvas, height, width) {
     var context = canvas.getContext('2d');
 
     var imageData = context.createImageData(width, height);
-    imageData.data.set(glcanvas.getContext('webgl').readPixels());
+    var pixels = new Uint8Array(width * height * 4);
+    // IMPORTANT - if the preserveDrawingBuffer property is set to false - this will not print
+    var gl = glcanvas.getContext('webgl');
+    gl.readPixels(0, 0, width, height, gl.RGBA, gl.UNSIGNED_BYTE, pixels)
+    imageData.data.set(pixels);
     context.putImageData(imageData, 0, 0)
 
-    $(document.body).append(canvas);
-    $(glcanvas).css('display', 'none');
+    document.body.appendChild(canvas);
+    glcanvas.style.display = 'none';
 
     // due to limitations in the data url length -
     // new canvas is half of the size so that large screens can still print
@@ -26,9 +30,10 @@ function getWebGLData(glcanvas, height, width) {
     newcontext.scale(.5, .5)
     newcontext.drawImage(canvas, 0, 0);
 
-    $(document.body).append(newcanvas);
+    document.body.appendChild(newcanvas);
     var url = newcanvas.toDataURL();
-    $(canvas, newcanvas).remove();
-    $(glcanvas).css('display', 'block');
+    canvas.remove();
+    newcanvas.remove();
+    glcanvas.style.display = 'block';
     return url;
 }
