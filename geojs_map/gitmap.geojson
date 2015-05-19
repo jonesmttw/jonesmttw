@@ -38,4 +38,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8884435,33.5911434]},"properties":{"name":"Lubbock","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3377969,30.6111934]},"properties":{"name":"College Station","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0145665,38.8993488]},"properties":{"name":"Washington DC","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3962444,39.9348763]},"properties":{"name":"Quincy, IL","marker-color":"#00f","marker-symbol":"city"}}
 ]}
