@@ -1,0 +1,14 @@
+{
+  "name": "mongo-node-learning",
+  "version": "0.0.1",
+  "description": "storing code to help reference mongodb later",
+  "main": "app.js",
+  "author": {
+    "name": "mattjones",
+    "email": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mongodb": "^2.0.39"
+  }
+}
