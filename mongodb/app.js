@@ -35,6 +35,40 @@ var insertDocument = function(db, callback) {
 	});
 };
 
+var findRestaurants = function(db, callback) {
+	var cursor = db.collection('restaurants').find( );
+	cursor.each(function(err, doc) {
+		assert.equal(err, null);
+		if (doc != null) {
+			console.dir(doc);
+		} else {
+			callback();
+		}
+	});
+};
+
+var findFilteredRestaurants = function(db, callback) {
+	var cursor = db.collection('restaurants').find( { "borough": "Manhattan" } );
+	cursor.each(function(err, doc) {
+		assert.equal(err, null);
+		if (doc != null) {
+			console.dir(doc);
+		} else {
+			callback();
+		}
+	});
+};
+
+MongoClient.connect(db_url, function(err, db) {
+	assert.equal(null, err);
+	findFilteredRestaurants(db, function() {
+		db.close();
+	});
+});
+
+/* Insert document */
+/*
+
 MongoClient.connect(db_url, function(err, db) {
 	assert.equal(null, err);
 	console.log("Connected correctly to server.");
@@ -43,3 +77,5 @@ MongoClient.connect(db_url, function(err, db) {
 		db.close();	
 	});
 });
+
+*/
