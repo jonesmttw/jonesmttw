@@ -59,12 +59,43 @@ var findFilteredRestaurants = function(db, callback) {
 	});
 };
 
+var findComboRestaurants = function(db, callback) {
+	var cursor = db.collection('restaurants').find(
+		{ "cuisine": "Italian", "address.zipcode": "10075" }
+	);
+	cursor.each(function(err, doc) {
+		assert.equal(err, null);
+		if (doc != null) {
+			console.dir(doc);
+		} else {
+			callback();
+		}
+	});
+};
+
+var findSort = function(db, callback) {
+	var cursor = db.collection('restaurants').find().sort( { "borough": 1, "address.zipcode": 1 } );
+	cursor.each(function(err, doc) {
+		assert.equal(err, null);
+		if (doc != null) {
+			console.dir(doc);
+		} else {
+			callback();
+		}
+	});
+};
+
+/* Query dataset */
+/*
+
 MongoClient.connect(db_url, function(err, db) {
 	assert.equal(null, err);
-	findFilteredRestaurants(db, function() {
+	findSort(db, function() {
 		db.close();
 	});
 });
+
+*/
 
 /* Insert document */
 /*
