@@ -3,6 +3,7 @@ var assert = require('assert');
 var ObjectId = require('mongodb').ObjectID;
 var db_url = 'mongodb://localhost:27017/test';
 
+/* Insert Example */
 
 var insertDocument = function(db, callback) {
 	db.collection('restaurants').insertOne( {
@@ -147,7 +148,34 @@ var dropRestaurants = function(db, callback) {
 	});
 };
 
+/* Data Aggregation Examples */
+
+var aggregateRestaurants = function(db, callback) {
+	db.collection('restaurants').aggregate(
+		[
+			{ $group: { "_id": "$borough", "count": { $sum: 1 } } }
+		]
+	).toArray(function(err, result) {
+		assert.equal(err, null);
+		console.log(result);
+		callback(result);
+	});
+};
+
+
+/* Perform Statistics */
+
+MongoClient.connect(db_url, function(err, db) {
+	assert.equal(null, err);
+
+	aggregateRestaurants(db, function() {
+		db.close();
+	});
+});
+
+
 /* Delete documents */
+/*
 
 MongoClient.connect(db_url, function(err, db){
 	assert.equal(null, err);
@@ -157,6 +185,7 @@ MongoClient.connect(db_url, function(err, db){
 	});
 });
 
+*/
 
 /* Update Fields */
 /*
