@@ -35,6 +35,8 @@ var insertDocument = function(db, callback) {
 	});
 };
 
+/* Query Examples */
+
 var findRestaurants = function(db, callback) {
 	var cursor = db.collection('restaurants').find( );
 	cursor.each(function(err, doc) {
@@ -85,6 +87,8 @@ var findSort = function(db, callback) {
 	});
 };
 
+/* Update Examples */
+
 // finds the first document with the name 'Juni' and updates the values
 var updateRestaurants = function(db, callback) {
 	db.collection('restaurants').updateOne(
@@ -110,6 +114,49 @@ var updateMultipleRestaurants = function(db, callback){
 			callback();
 	});
 };
+
+/* Delete Examples */
+
+// remove all documents that match the query
+var removeMultipleRestaurants = function(db, callback) {
+	db.collection('restaurants').deleteMany(
+		{ "borough": "Manhattan" },
+		function(err, results) {
+			console.log(results);
+			callback();
+		}
+	);
+};
+
+// remove the first document that matches the query
+var removeRestaurants = function(db, callback) {
+	db.collection('restaurants').deleteOne(
+		{ "borough": "Queens" },
+		function(err, results) {
+			console.log(results);
+			callback();
+		}
+	);
+};
+
+// drop collection 
+var dropRestaurants = function(db, callback) {
+	db.collection('restaurants').drop( function(err, response) {
+		console.log(response)
+		callback();
+	});
+};
+
+/* Delete documents */
+
+MongoClient.connect(db_url, function(err, db){
+	assert.equal(null, err);
+
+	removeRestaurants(db, function(){
+		db.close();
+	});
+});
+
 
 /* Update Fields */
 /*
