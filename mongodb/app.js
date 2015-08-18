@@ -162,6 +162,15 @@ var aggregateRestaurants = function(db, callback) {
 	});
 };
 
+/* Rename collection Example */
+
+var rename = function(db, callback){
+	db.collection('restaurants').rename('somenewname', function(err, d){
+		assert.equal(err, null);
+		callback();
+	});
+}
+
 
 /* Perform Statistics */
 
