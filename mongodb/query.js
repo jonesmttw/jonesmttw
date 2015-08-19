@@ -69,9 +69,18 @@ var findin = function(db, ids, callback) {
 	});
 };
 
+// count * equivalent
+var countstar = function(db, callback){
+	db.collection('restaurants').count({}, function(e, num){
+		if(e) return callback(e);
+		callback(null, num);
+	});
+};
+
 MongoClient.connect(db_url, function(err, db) {
 	assert.equal(null, err);
-	findin(db, function() {
+	countstar(db, function(e, num) {
+		console.log(num);
 		db.close();
 	});
 });
