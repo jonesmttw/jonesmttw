@@ -40,4 +40,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0145665,38.8993488]},"properties":{"name":"Washington DC","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3962444,39.9348763]},"properties":{"name":"Quincy, IL","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.3934221,43.0746724]},"properties":{"name":"Madison, WI","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.6813741,45.5234532]},"properties":{"name":"Portland, OR","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.9693405,45.8865919]},"properties":{"name":"Cannon Beach, OR","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.8350945,46.1874833]},"properties":{"name":"Astoria, OR","marker-color":"#00f","marker-symbol":"city"}}
 ]}
