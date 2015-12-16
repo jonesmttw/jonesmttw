@@ -43,4 +43,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.6813741,45.5234532]},"properties":{"name":"Portland, OR","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.9693405,45.8865919]},"properties":{"name":"Cannon Beach, OR","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.8350945,46.1874833]},"properties":{"name":"Astoria, OR","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.1759957,36.0658369]},"properties":{"name":"Fayetteville, AR","marker-color":"#00f","marker-symbol":"city"}}
 ]}
