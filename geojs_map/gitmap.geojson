@@ -53,4 +53,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4126426,32.8512737]},"properties":{"name":"Yazoo City, MS","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7413588,33.4896756]},"properties":{"name":"Winona, MS","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6722105,33.6028881]},"properties":{"name":"West Point, MS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.9518623,40.4527161]},"properties":{"name":"West Lafayette, IN","marker-color":"#00f","marker-symbol":"city"}}
 ]}
