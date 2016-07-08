@@ -47,4 +47,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.5475177,33.8220482]},"properties":{"name":"Palm Springs, CA","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.624609,41.5950806]},"properties":{"name":"Des Moines, IA","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.922797,43.0306436]},"properties":{"name":"Milwaukee, WI","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7108492,32.0336931]},"properties":{"name":"Mansfield, LS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.649972,32.5277749]},"properties":{"name":"Ruston, LS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.1021555,32.5139039]},"properties":{"name":"Monroe, LS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4126426,32.8512737]},"properties":{"name":"Yazoo City, MS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7413588,33.4896756]},"properties":{"name":"Winona, MS","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6722105,33.6028881]},"properties":{"name":"West Point, MS","marker-color":"#00f","marker-symbol":"city"}}
 ]}
