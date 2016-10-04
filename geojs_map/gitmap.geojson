@@ -55,4 +55,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6722105,33.6028881]},"properties":{"name":"West Point, MS","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.9518623,40.4527161]},"properties":{"name":"West Lafayette, IN","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6408706,35.7776758]},"properties":{"name":"Raleigh, NC","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0694855,29.9509553]},"properties":{"name":"New Orleans, LA","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1848179,30.4306395]},"properties":{"name":"Baton Rouge, LA","marker-color":"#00f","marker-symbol":"city"}}
 ]}
