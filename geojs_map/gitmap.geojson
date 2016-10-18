@@ -57,4 +57,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6408706,35.7776758]},"properties":{"name":"Raleigh, NC","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0694855,29.9509553]},"properties":{"name":"New Orleans, LA","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1848179,30.4306395]},"properties":{"name":"Baton Rouge, LA","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7408709,39.7638165]},"properties":{"name":"Springfield, IL","marker-color":"#00f","marker-symbol":"city"}}
 ]}
