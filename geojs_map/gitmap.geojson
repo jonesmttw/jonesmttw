@@ -58,4 +58,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0694855,29.9509553]},"properties":{"name":"New Orleans, LA","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1848179,30.4306395]},"properties":{"name":"Baton Rouge, LA","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7408709,39.7638165]},"properties":{"name":"Springfield, IL","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7876441,24.5583128]},"properties":{"name":"Key West, FL","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.045565,24.7247819]},"properties":{"name":"Marathon, FL","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1858823,25.7751792]},"properties":{"name":"Miami, FL","marker-color":"#00f","marker-symbol":"city"}}
 ]}
