@@ -63,4 +63,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.1858823,25.7751792]},"properties":{"name":"Miami, FL","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3865118,43.646513]},"properties":{"name":"Toronto, ON","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4863139,41.5635133]},"properties":{"name":"Bettendorf, IA","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0016653,39.760737]},"properties":{"name":"Denver, CO","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2230236,39.7501197]},"properties":{"name":"Golden, CO","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2731034,40.0157389]},"properties":{"name":"Boulder, CO","marker-color":"#00f","marker-symbol":"city"}}
 ]}
