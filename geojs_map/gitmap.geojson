@@ -66,4 +66,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0016653,39.760737]},"properties":{"name":"Denver, CO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2230236,39.7501197]},"properties":{"name":"Golden, CO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2731034,40.0157389]},"properties":{"name":"Boulder, CO","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7793118,36.1609368]},"properties":{"name":"Nashville, TN","marker-color":"#00f","marker-symbol":"city"}}
 ]}
