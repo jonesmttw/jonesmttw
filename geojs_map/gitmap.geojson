@@ -67,4 +67,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2230236,39.7501197]},"properties":{"name":"Golden, CO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2731034,40.0157389]},"properties":{"name":"Boulder, CO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7793118,36.1609368]},"properties":{"name":"Nashville, TN","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.1736084,36.1100857]},"properties":{"name":"Las Vegas, NV","marker-color":"#00f","marker-symbol":"city"}}
 ]}
