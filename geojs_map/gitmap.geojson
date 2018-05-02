@@ -68,4 +68,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2731034,40.0157389]},"properties":{"name":"Boulder, CO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7793118,36.1609368]},"properties":{"name":"Nashville, TN","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.1736084,36.1100857]},"properties":{"name":"Las Vegas, NV","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.3680697,48.425801]},"properties":{"name":"Victoria, BC","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-21.9358105,64.1409612]},"properties":{"name":"Reykjavík, Iceland","marker-color":"#00f","marker-symbol":"city"}}  
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-19.9901253,63.6196762]},"properties":{"name":"Hamragarðar, Iceland","marker-color":"#00f","marker-symbol":"city"}}  
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.2477326,53.4800325]},"properties":{"name":"Manchester, UK","marker-color":"#00f","marker-symbol":"city"}}  
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.1285452,51.5078508]},"properties":{"name":"London, UK","marker-color":"#00f","marker-symbol":"city"}}  
 ]}
