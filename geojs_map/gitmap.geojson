@@ -73,4 +73,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-19.9901253,63.6196762]},"properties":{"name":"Hamragarðar, Iceland","marker-color":"#00f","marker-symbol":"city"}}  
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.2477326,53.4800325]},"properties":{"name":"Manchester, UK","marker-color":"#00f","marker-symbol":"city"}}  
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.1285452,51.5078508]},"properties":{"name":"London, UK","marker-color":"#00f","marker-symbol":"city"}}  
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8436887,35.2243756]},"properties":{"name":"Charlotte, NC","marker-color":"#00f","marker-symbol":"city"}}  
 ]}
