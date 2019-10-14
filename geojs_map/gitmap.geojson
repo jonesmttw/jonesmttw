@@ -75,4 +75,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.1285452,51.5078508]},"properties":{"name":"London, UK","marker-color":"#00f","marker-symbol":"city"}}  
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8436887,35.2243756]},"properties":{"name":"Charlotte, NC","marker-color":"#00f","marker-symbol":"city"}}  
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7525892,36.4042794]},"properties":{"name":"Eureka Springs, AR","marker-color":"#00f","marker-symbol":"city"}}  
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.7242636,27.7542606]},"properties":{"name":"St. Petersburg, FL","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6783033,41.7656875]},"properties":{"name":"Hartford, CT","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.7773788,37.9513164]},"properties":{"name":"Rolla, MO","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5562484,35.5941766]},"properties":{"name":"Asheville, NC","marker-color":"#00f","marker-symbol":"city"}}
 ]}
