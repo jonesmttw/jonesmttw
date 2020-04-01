@@ -79,4 +79,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6783033,41.7656875]},"properties":{"name":"Hartford, CT","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.7773788,37.9513164]},"properties":{"name":"Rolla, MO","marker-color":"#00f","marker-symbol":"city"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5562484,35.5941766]},"properties":{"name":"Asheville, NC","marker-color":"#00f","marker-symbol":"city"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.8409199,39.7579072]},"properties":{"name":"Chico, CA","marker-color":"#00f","marker-symbol":"city"}}
 ]}
